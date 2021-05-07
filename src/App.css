@@ -1,0 +1,60 @@
+/* .App {
+  text-align: center;
+} */
+
+.sh-payment-form {
+  margin-top: 6em;
+  margin-left: 30%;
+
+}
+
+.form-group {
+  position: relative;
+  margin-bottom: 1rem;
+}
+
+label {
+  font-size: 0.85em;
+  font-weight: 500;
+  color: #4fa4ce;
+  margin-bottom: 0.5em;
+  display: block;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+.sh-input {
+  height: 45px;
+  outline: none;
+  border-radius: 0.2em;
+  background-color: #fff;
+  border: solid 1px #dfe9f1;
+  width: 50%;
+  font-size: 1.1em;
+  color: #333;
+  padding: 0.5em 1em;
+  box-sizing: border-box;
+  transition: border-color ease-in-out 0.25s;
+}
+button {
+  border: none;
+  background: none;
+  color: grey;
+}
+.payBtn {
+  padding: 16px 10px;
+  margin: 10px auto;
+  color: #fff;
+  font-size: 15px;
+  line-height: 15px;
+  border: none;
+  opacity: 1;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  cursor: pointer;
+  border-radius: 30px;
+  outline: none;
+  background-color: blueviolet;
+  transition: opacity ease-in-out 0.25s;
+  width: 50%;
+}
